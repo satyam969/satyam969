@@ -1,11 +1,11 @@
 <h1 align="center"> Hi 👋, Myself Priya Raj </h1>
 
 <p align="center">
-  <i>Myself <b>Priya Raj</b>, a second-year <b>Computer Science</b> undergraduate from <b>National Institute of Technology, Jamshedpur</b>. An aspiring <b>Competitive Programmer</b>, <b>Full Stack Web Developer</b>, and <b>Artificial Intelligence Enthusiast</b>.</i>
+  <i>Myself <b>Priya Raj</b>, a second-year <b>Computer Science</b> undergraduate from <b>National Institute of Technology, Jamshedpur</b>. An aspiring <b>Competitive Programmer</b>, <b>Full Stack Web Developer</b>, and <b>Machine Learning Enthusiast</b>.</i>
 </p>
 
 <p align="center">
-  🌟 <i>"--Stars can't shine without darkness--"</i> 🌟
+🌟 "Success is not final, failure is not fatal: it is the courage to continue that counts." 🌟
 </p>
 
 ---
@@ -46,7 +46,7 @@
 
 
 ## 📈 Contribution Graph:
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=satyam969&theme=react-dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=satyam969&theme=react-dark)
 
 
 
