@@ -1,7 +1,7 @@
 <h1 align="center"> Hi 👋, Myself Priya Raj </h1>
 
 <p align="center">
-  <i>Myself <b>Priya Raj</b>, a second-year <b>Computer Science</b> undergraduate from <b>National Institute of Technology, Jamshedpur</b>. An aspiring <b>Competitive Programmer</b>, <b>Full Stack Web Developer</b>, and <b>Machine Learning Enthusiast</b>.</i>
+  <i>Myself <b>Priya Raj</b>, a Pre-Final Year <b>Computer Science</b> undergraduate from <b>National Institute of Technology, Jamshedpur</b>. An aspiring <b>Competitive Programmer</b>, <b>Full Stack Web Developer</b>, and <b>Machine Learning Enthusiast</b>.</i>
 </p>
 
 <p align="center">
